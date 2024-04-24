@@ -1,7 +1,3 @@
-# 🌟Make Sure You Read all Instructions :
-
-
-
 
 # ⭐Requirements 
 #### You have to Installed all the requirments. Save all the below requirements in requirements.txt
